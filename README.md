@@ -10,5 +10,5 @@ In this iteration I am offering two flavours of the AS-UNO.  They both share som
 
 The AS-UNO-8 is the champion of low cost, low power, and minimalism - it does this at the expense of speed.  The '8' indicates 8MHz which is the maximum clock frequency that may be used on this flavour.  No crystal is provided - uses the internal oscillator.  If you need performance the AS-UNO is offered in 16MHz or 20MHz versions.
 
-Further discussion on each flavour are presented here:  AS-UNO-8   --   AS-UNO-20
+Further discussion on each flavour are presented here:  https://github.com/ArduinoShop/AS_UNO/wiki/AS_UNO AS-UNO-8   --   https://github.com/ArduinoShop/AS_UNO/wiki/AS_UNO AS-UNO-20
 
